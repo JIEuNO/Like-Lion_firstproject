@@ -233,7 +233,9 @@ label {
   display: inline-block;
   margin-bottom: 0.5rem;
 }
-
+span{
+  color:rgba(211, 44, 108, 0.486);
+}
 button {
   border-radius: 0;
 }
@@ -10599,6 +10601,8 @@ hr.light {
 
 .page-section {
   padding: 8rem 0;
+  font-family:"dotum";
+  
 }
 
 #mainNav {
